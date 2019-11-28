@@ -1,4 +1,4 @@
-# memory_buffer_register
+# Memory Buffer Register
 
 Memory Buffer Register (MBR) is the register of a computer's control unit that contains the data after a fetch from the computer’s storage. It acts like a buffer and holds anything that is copied from the memory ready for the processor to use it. This prototype aims to replicate the working of MBR in one direction i.e., write and read data from another register.
 
